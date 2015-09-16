@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 般舟三昧經
+#+DATE: 2015-08-30 20:06:57.773681
+#+PROPERTY: JUAN 0
